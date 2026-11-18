@@ -2,9 +2,7 @@
 
 **用中文讨论需求，按项目真实版本构建 Mastra 应用。**
 
-基于 [mastra-ai/skills 的 mastra](https://github.com/mastra-ai/skills/tree/main/skills/mastra) 的小幅中文适配，独立维护、非官方。
-
-## 保留上游能力
+## 功能与流程
 
 文档优先、原生能力发现、agents/workflows/tools/memory/storage 开发指导，以及日志、追踪、模型选择、迁移和部署参考。保留完整参考目录和 provider-registry 辅助脚本，不另写一套 Mastra API。
 
@@ -25,7 +23,9 @@ npx skills add batespaige357-tech/mastra-cn --skill mastra-cn
 
 本项目不打包 Mastra 框架、Factory 配套技能或云账号。实际开发需要目标项目的依赖与相应工具权限；辅助脚本不会因安装自动运行。没有效果截图或演示网页。
 
-## 来源与验证
+## 来源与许可
+
+基于 [mastra-ai/skills 的 mastra](https://github.com/mastra-ai/skills/tree/main/skills/mastra)，由本仓库维护。
 
 Apache-2.0，保留 Kepler Software, Inc. 版权、原始许可文件与完整标准许可文本。[CHANGES.md](CHANGES.md) 记录参考提交及改动。
 

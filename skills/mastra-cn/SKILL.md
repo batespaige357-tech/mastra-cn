@@ -163,7 +163,7 @@ Always verify before writing code:
 
 ## 中文开发适配 — mastra-cn 新增
 
-本文件为独立社区修改版；保留上游文档优先、能力发现与开发流程，反馈发送改为需要用户明确授权，不代表 Mastra 官方。
+保留上游文档优先、能力发现与开发流程，反馈发送改为需要用户明确授权。
 
 - 中文说明任务与实现思路，API、包名、模型标识和报错保持原文。先从代码和依赖确认实际版本，不能把当前远程文档当作已安装版本。
 - “做个智能体／加个工作流”先读 core-concepts 与 embedded-docs；“报类型错误”先读 common-errors 与本机类型定义；模型配置先按上游 registry 路径核对，不靠中文产品俗称猜 provider/model-name。
